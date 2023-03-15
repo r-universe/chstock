@@ -2,5 +2,9 @@
   {
     "package": "DTComPair",
     "oncran": true
+  },
+  {
+    "package": "tipmap",
+    "oncran": true
   }
 ]

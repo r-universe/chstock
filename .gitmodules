@@ -8,3 +8,8 @@
 	url = https://github.com/chstock/dtcompair
 	shallow = true
 	registered = true
+[submodule "tipmap"]
+	path = tipmap
+	url = https://github.com/chstock/tipmap
+	shallow = true
+	registered = true
